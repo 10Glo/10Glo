@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @10Glo a developer
 - 👀 I’m interested in web technologies, website and web application development, mobile development, desktop development and also AI and machine learning
-- 🌱 I’m currently learning new web technologies AI and machine learning
+- 🌱 I’m currently learning new web technologies, AI and machine learning
